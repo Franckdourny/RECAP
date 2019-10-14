@@ -8,13 +8,19 @@ Le Cockpit sera votre repère en journée, mais ici, ce sera un peu votre foyer 
 Toutes les annonces pour les cours, les challenges, les problèmes de téléporteur ou autres, c'est par ici. Dans cet espace de discussion, vous pourrez communiquer entre vous, avec les formateurs, et avec l'équipe O'clock, et échanger vos conseils pour les challenges, des liens de plugins VSCode (Visual Studio Code) sympas ou de librairies js utiles, la photo de votre chien/chat... Mais aussi l'annonce du challenge du jour, les récaps de cours, des infos sur l'école.
   
 Pour s'y retrouver, vous trouverez quelques channels déjà créés :
-:gélule: #pilule-rouge : postez y votre charte du stagiaire signée, comme un engagement envers vos collègues et vous mêmes de vous impliquer au maximum dans l'aventure que vous commencez ensemble
+
+:gélule: #pilule-rouge : postez y votre charte du stagiaire signée, comme un engagement envers vos collègues et vous mêmes de vous impliquer au maximum dans l'aventure que vous commencez ensemble !
 
 :fusée: #cockpit : dédié aux annonces concernant les cours et vos formateurs
+
 :muscle: #challenges : dédié aux discussions autour des challenges, les projets sur lesquels vous allez bûcher après les cours
+
 :sos: #entraide : pour proposer un coup de main ou demander des indices sur le challenge du jour, par exemple
+
 :livres: #ressources : permet de partager des articles, documentation ou outils intéressants
+
 :ambulance: #sav : si vous avez des problèmes techniques, par exemple avec votre téléporteur, c'est par ici !
+
 :gâteau: Et bien sûr #general et #random pour tout le reste qui a un rapport (general) ou non (random) avec la formation.
 
 Les plus attentifs noteront l’existence de quelques autres channels… on y viendra plus tard :clin_d'œil:
@@ -48,9 +54,11 @@ Bref, on récapitule : :cerveau:
 * Un Slack de travail, uniquement pour Zénith.
 * Un Discord plus convivial, ouvert à tous les étudiants O’clock.
 * Un Slack Pro, pour l'après-formation.
+
 D'ailleurs tant que l'on y est, et si on en profitait pour que vous vous présentiez mutuellement ?
 Cela pourrait être une excellente base pour vos échanges futurs ! :sourire:
 Montrez nous qui vous êtes ! On est un peu curieux :intello:
+
 A demain @chaîne, pour le prochain défi du Chemin vers le Cockpit, qui sera posté ici même, sur le Slack Zénith, channel #challenges ! :muscle:
   
 </details>
