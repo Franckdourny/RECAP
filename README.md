@@ -1,8 +1,9 @@
 # RECAP
+## Saison 00
 
 ### S00E01 - Bienvenue sur Slack !
-
 <details>
+  
 Re ! Bienvenue sur le slack Zénith !
 Le Cockpit sera votre repère en journée, mais ici, ce sera un peu votre foyer des étudiants.
 Toutes les annonces pour les cours, les challenges, les problèmes de téléporteur ou autres, c'est par ici. Dans cet espace de discussion, vous pourrez communiquer entre vous, avec les formateurs, et avec l'équipe O'clock, et échanger vos conseils pour les challenges, des liens de plugins VSCode (Visual Studio Code) sympas ou de librairies js utiles, la photo de votre chien/chat... Mais aussi l'annonce du challenge du jour, les récaps de cours, des infos sur l'école.
@@ -61,4 +62,6 @@ Montrez nous qui vous êtes ! On est un peu curieux :intello:
 
 A demain @chaîne, pour le prochain défi du Chemin vers le Cockpit, qui sera posté ici même, sur le Slack Zénith, channel #challenges ! :muscle:
   
+  
+
 </details>
