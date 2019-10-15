@@ -1,6 +1,80 @@
 # RECAP
 ## Saison 00
 
+### S00E02 - Slack, Git & Start !
+<details>
+  
+  <summary>#Général</summary>
+  
+Défi n° 1 : découvrir GitHub et créer son compte
+GitHub est un site de développement collaboratif. Il permet de partager notre code, et c'est avec cet outil que l'on collaborera le plus souvent, pour les challenges par exemple.
+
+Il est immensément utilisé par la communauté de développeurs, et est basé sur Git, un outil de versionning et de partage de code, encore plus populaire... sur lequel on va peut-être s'arracher quelques cheveux ! Ou pas :wink: 
+Le défi d'aujourd'hui est à portée de main : créer un compte sur GitHub :point_right: https://github.com/
+Ce compte vous servira tous les jours pendant votre scolarité, et même dès la saison 0! C'est une étape incontournable de votre préparation à la rentrée.
+
+Une fois que votre compte est créé, on va vous ajouter au GitHub de O’clock (Alumni) et à celui réservé aux Zénith :metal:
+:danger: Important : histoire de simplifier un minimum cette fastidieuse tache pour votre cher référent et tous les profs d’O’clock, je vais vous demander de bien vouloir utiliser autant que possible votre nom et prénom pour créer votre pseudo GitHub, ça permettra de s’y retrouver. 
+Ensuite, vous pouvez remplir ce petit formulaire avec vos noms d’utilisateurs :
+https://forms.gle/cLSrf6yyfzMSMyjB6
+Plus vos pseudos seront harmonisés, mieux ce sera :ok_hand:
+N'hésitez pas à mettre une petite :coche_trait_plein: en réaction à ce message quand vous aurez rempli le formulaire :wink:
+Vous verrez, les formulaires chez O’clock c’est un peu une tradition :innocent:
+J'en profite pour vous (re)présenter @Eva O'clock : chef d'orchestre de l'administration du pôle pédagogie. Soyez (très) gentils avec elle :miam:
+Vous devriez recevoir par e-mail, séparément, les invitations aux deux organisations GitHub d’ici vendredi. Si vous lisez ce message à retardement et remplissez le formulaire après vendredi, n’hésitez pas à notifier Eva en MP de votre remplissage tardif, pour qu’on vous ajoute après coup.
+    
+</details>
+
+<details>
+
+<summary>#Challenges</summary>
+
+Défi n° 2 : maîtriser Slack
+Vous connaissez déjà les channels :
+:fusée: #cockpit : dédié aux annonces concernant les cours et vos formateurs
+:muscle: #challenges : le channel que j'ai l'honneur d'inaugurer aujourd'hui, dédié aux discussions autour des challenges, les projets sur lesquels vous allez bûcher après les cours
+:sos: #entraide : pour proposer un coup de main ou demander des indices sur le challenge du jour, par exemple
+:livres: #ressources : permet de partager des articles, documentation ou outils intéressants
+:ambulance: #sav : si vous avez des problèmes techniques, par exemple avec votre téléporteur, c'est par ici !
+:extra_terrestre: :extra_terrestre:
+Mais est-ce que vous connaissez vraiment tout sur Slack ?
+1) La vidéo de présentation : https://slack.com/is
+2) Dans Slack, mais ça sera aussi le cas dans Discord et également dans le chat du Cockpit, vous pouvez formater vos messages :
+https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages
+En particulier, vous allez beaucoup vous partager du code, alors habituez-vous à partager des blocs !
+<p>
+    Je fais du <strong>HTML</strong> !
+</p>
+Dans le cockpit, les blocs de code seront colorés. Ça sera pratique pour partager un bout de code à la classe, pour demander pourquoi ça ne fonctionne pas ou pour proposer une solution par exemple.
+Vous pouvez aussi partager des "Snippets", je vous laisse découvrir ça…
+3) Quelques raccourcis utiles : https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts
+4) Vous l'avez déjà remarqué, mais toutes ces ressources sont en anglais :us:
+Pour tous ceux qui ne sont pas encore habitués, n'hésitez pas à faire un peu d'anglais dans les prochains jours, pour vous rafraîchir la mémoire dans la langue des Spice Girls (ou de Shakespeare, c'est selon).
+5) Les mentions !
+En mentionnant @chaîne, vous pouvez mentionner tous ceux qui sont dans le channel Slack ! C'est ce qu'on fera souvent lors de nos annonces. On mentionnant quelqu'un en particulier avec @ + pseudo, vous déclenchez une notification personnelle.
+Dans le cockpit, les mentions personnelles marchent aussi, et en prime, on pourra aussi utiliser @question pour mentionner le ou les profs :clin_d'œil:
+
+</details>
+
+<details>
+  
+  <summary>#Ressources</summary>
+  
+  Défi n° 3 : découvrir start.me et organiser vos favoris
+:salut_main: @chaîne
+Quand on fait du dev, et d'une manière générale quand on travaille sur des outils numériques, il est indispensable pour être productif d'être à l'aise avec ce qu'on utilise. Et quand on est dev, on en utilise plein ! Slack et Discord ne sont qu'un début…
+start.me est un outil de gestion de bookmarks.
+Vous pouvez l'utiliser dès aujourd'hui pour rassembler tous les outils, sites et liens utiles, liés à votre formation et à ce qui vous attend après : votre nouveau job :visage_légèrement_souriant:
+On vous encourage donc :
+:flèche_droite: à vous y créer un compte (gratuit) :index_vers_la_droite: https://start.me/fr (Cliquer sur "Démarrer")
+ (Suivre les différentes instructions et pourquoi pas la visite guidée également.
+ Une page d'accueil avec pleins d'onglets va apparaître. Elle est inutile pour O'clock mais vous pouvez la garder à titre personnel ou la supprimer)
+:flèche_droite: à consulter la board O'clock partagée, compilation des liens essentiels à garder à portée de main  :index_vers_la_droite:  https://start.me/p/5vGxNq/o-clock
+:flèche_droite: Vous pouvez même dupliquer cette page (aller sur :crayon2: , copier la page) pour la personnaliser avec différents outils.
+Vous trouverez dans cette liste de nombreuses références qui vous aideront à connaître le métier, et tout ce qui vous aidera à trouver un job qui vous convienne à la sortie de la formation.
+  
+</details>
+
 ### S00E01 - Bienvenue sur Slack !
 <details>
   
