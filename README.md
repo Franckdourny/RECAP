@@ -1,6 +1,28 @@
 # RECAP
 ## Saison 00
 
+### S00E04 - Checklist & Lecture
+
+<details>
+  <summary>#général</summary>
+  
+  Hello @chaîne ! :salut_main:
+  <p>La préparation au décollage avance… Je vois que vous avez bien apprécié Algoblocs, et que certains de ces défis vous ont retourné les       méninges ! :cerveau: :sourire:</p>
+  <p>Je vous présente un nouvel outil pour vous aider à vous préparer techniquement au décollage : la checklist "Es tu prêt pour l'aventure ?"     O'clock :
+  :flèche_avant: Connectez-vous sur https://checklist.oclock.io
+Connectez vous avec les identifiants qui vous seront envoyés en privé par @Eva O'clock  (Sur votre adresse mail d'inscription, qui vous servira aussi d'identifiant :clin_d'œil:) et cochez :coche_blanche: ! (Si vous n'avez pas encore reçu le mail, pas de panique ça arrive ! ) :boîte_aux_lettres_avec_courrier:</p>
+<p>:date: Vendredi 18 Octobre, en complément des tests que vous allez faire pour compléter votre checklist, nous allons faire des petites ouvertures du cockpit. Ce sera l’occasion de vérifier que tout fonctionne comme il faut avant la rentrée, pour éviter le stress de dernière minute :sueur_et_sourire:</p>
+<p>Il y aura plusieurs ouvertures, matin comme après-midi - et éventuellement une de plus la semaine prochaine si certains d’entre vous ne peuvent venir demain. Envoyez-moi un MP si vous êtes intéressés.</p>
+<p>Je vous enverrais les heures de passages dans la journée, so stay tuned ! :intello:</p>
+<p>C’est d’autant plus important si vous avez un PC un peu fatigué ou si vous êtes sur Mac ; car ces machines sont susceptibles d’avoir des incompatibilités avec le cockpit, même si la checklist semble ok.  :ordinateur: :boum:</p>
+<p>D’ailleurs je vais vous laisser la remplir. Et on oublie pas, en cas de pépin avec le téléporteur : direction #sav !</p>
+<p>En attendant, on a pensé à vous, voici quelques lectures. A lire absolument !
+Partie I : https://oclock.io/blog/208/se-preparer-pour-oclock-environnement
+Partie II : https://oclock.io/blog/253/se-preparer-pour-oclock-developpement-web
+Partie III : https://oclock.io/blog/265/se-preparer-pour-oclock-mentalement-developpeur
+</p>  
+</details>
+
 ### S00E03 - Algo & Call Bienvenue
 
 <details>
