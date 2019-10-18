@@ -1,6 +1,49 @@
 # RECAP
 ## Saison 00
 
+
+### S00E05 - Test Cockpit
+
+<details>
+  <summary>#Général</summary>
+  
+<p> Hello @chaîne :salut_main:
+Wahou, ça approche à grands pas !
+Allez, soyons fous, et commençons à coder :intello:</p>
+<p>Comme certains l'ont peut-être déjà remarqué, nous vous avons préparé un p'tit tuto pour aller poser votre première ligne de code HTML.
+Pour prendre les bonnes habitudes, c'est sur GitHub que ça se passe !
+=> https://github.com/O-clock-Zenith/S0-Tuto-HTML
+</p>
+<p>Tant qu'à faire, ouvrez ce lien depuis le téléporteur, c’est une occasion de plus de se familiariser avec les outils.
+NB: pas besoin d'uploader le résultat de vos manipulations ; le fonctionnement de github sera vu en détail pendant les cours :clin_d'œil:
+Attention : pour avoir accès au tuto et ne pas tomber lamentablement sur une 404, vous devez accepter l'invitation à l'organisation O-clock-Y. On a invité tous ceux qui ont créé leur compte GitHub et nous l'ont transmis. Pour les autres, ne tardez pas :clin_d'œil:
+Et si vous tombez quand même sur une vilaine 404 et qu'après avoir vérifié vos mails (y compris les spams) vous n'avez pas eu d'invit (ça arrive), cliquez d'abord ici : https://github.com/o-clock-zenith et acceptez de rejoindre l'organisation puis ici : https://github.com/orgs/o-clock-zenith/teams/toute-la-promo et acceptez de rejoindre la team ! Si vous avez des 404 sur ces liens tout de même, deux choses à faire : vérifier que vous êtes bien connecté à votre compte github, et si vous êtes bien connecté, envoyer un petit MP à @Eva O'clock qui vous ajoutera :clin_d'œil:
+Pour ceux qui viennent d'arriver (coucou :câlin: ) ou pour ceux qui ont raté le formulaire, regarder tout en haut à gauche de cette chaîne, vous avez une petite :épingle: : cette petite punaise me sert à épingler à la chaîne les infos importantes, n'hésitez pas à cliquer dessus pour retrouver les messages dont je vous parle :clin_d'œil:
+Sinon tous les messages de la S00 sont reportés sur cette page : https://github.com/o-clock-Zenith/Recap. Vous pouvez dérouler le jour qui vous intéresse !</p>
+<p>
+Un défi avant le week-end, c'est aussi pour vous prévenir d'une chose importante : la formation est intense, et nécessite une implication totale de votre part. Il ne s'agit pas de se tuer à la tâche bien entendu. Mais il vous faudra essayer de trouver des moments ici et là pour coder, revoir ce qu'on fait en cours, ou simplement jeter un oeil aux fiches récapitulatives que l'on va vous concocter. C'est aussi très important de rester en contact avec votre groupe, car on ne vous le cache pas : cette aventure est éprouvante. Être ensemble, ça permet aussi d'éviter les coups de mou !</p>
+<p>Pour ceux qui ont l'immense honneur d'être parents tout particulièrement, ce ne sera pas forcément évident. Pensez-donc à bien vous organiser, à vous dédier des petits créneaux à vous dans la semaine, le soir ou le week-end. Ça peut vouloir dire aussi prévenir votre conjoint qu'il risque de faire davantage de corvées !
+Bon allez, je vous laisse, j'ai un vélo à réparer :silence:</p>
+</details>
+
+<details>
+  <summary>#Général</summary>
+<p>@chaîne Hello les Zénith ! :salut_main: :salut_main:</p>
+<p>Les tests cockpits sont terminés et le moins que l'on puisse dire c'est qu'ils se sont très bien passés ! :pouce:
+Merci à tous d'avoir été si réactif et patient ! J'ouvrirais une dernière fois la classe pour vos réglages casques etc.. Et pour ceux qui n'était pas dispo aujourd'hui.</p>
+<p>Cette première semaine est terminée, et on a été efficace tout est prêt pour attaquer la prochaine ! :muscle:
+Bon week-end a tous, on se retrouve Lundi ! :câlin: :fêtard_avec_oreilles_de_lapin:</p>
+:extra_terrestre:
+<p>Ah j'allais oublier, un conseil, ne vous laissez pas impressionner ! :index_vers_le_haut:
+Vous venez tous d'horizons différents, il est donc tout à fait normal que vous cherchiez tous quelque chose de différent au travers de l'univers de la formation.</p>
+<p>Certains auront peut-être déjà une première approche sur du développement, souhaitent parfaire leurs connaissances ou tout simplement débutent une nouvelle aventure. :étoile:</p>
+<p>Cependant, si vous êtes arrivés jusqu'ici, c'est que vous souhaitez tous apprendre quelque chose et cela passe non seulement par la technique mais aussi par le partage de vos expériences individuelles. Alors aucun stress à avoir, on a tous quelque chose en nous de Tennessee et on commence tous quelque part :muscle: :notes_de_musique:</p>
+<p>N'hésitez surtout pas à poser des questions et à participer, car il n'y a pas de question bête : si vous vous êtes posé cette question, c'est que quelqu'un d'autre se l'est déjà forcément posée avant vous! :lunettes_de_soleil:
+Une petite lecture fort à propos : https://oclock.io/blog/1054/syndrome-de-limposteur</p>
+<p>À tout bientôt pour de nouvelles aventures </p>
+ 
+</details>
+
 ### S00E04 - Checklist & Lecture
 
 <details>
