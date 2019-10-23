@@ -1,6 +1,134 @@
 # RECAP
 ## Saison 00
 
+### S00E08 - Opquast & serious game
+
+<details>
+  <summary>#général</summary>
+
+  <p>Hello @chaîne !</p>
+<p>Aujourd’hui, on se préoccupe de qualité. En effet, si vous faites la formation Développeur Web, c’est bien dans le but d’exercer, bien si possible, ce métier.
+Quels sont les critères de qualité d’un projet web ? Quelles sont les bonnes questions à se poser, les bonnes pratiques pour produire du travail de qualité ? Un projet web accessible, performant, de confiance, qui réponde aux besoins de tous les utilisateurs...
+Les questions à se poser sont nombreuses. L’équipe d’Opquast les a rassemblées et a construit une méthode et un référentiel (genre de catalogue) de bonnes pratiques de la qualité web. Elle a conçu autour de cette méthode un livre, un outil en ligne d'entraînement, et une épreuve de certification. </p>
+<p>En tant qu’étudiant O’clock, on vous offre la possibilité de vous former, et de vous faire certifier pour votre connaissance de ces bonnes pratiques ! :coiffe_de_diplôme: :parfait:
+Bien sûr, passer la certification, c’est pas pour tout de suite. Vous la passerez en fin de formation, et en téléprésentiel :maison:
+Par contre, dès aujourd’hui, vous allez recevoir par email vos accès à un petit parcours avec un QCM. Cet accès vous est donné pour 3 mois, pour passer ce mini test. Pas d’inquiétude, en début d’apothéose, un autre accès de 3 mois vous sera donné pour passer la certification :clin_d'œil:</p>
+<p>Votre défi du jour : vous connecter à la plateforme et commencer tout doucement votre préparation.
+Il est inutile d’être déjà développeur pour comprendre les recommandations, cette certification s’adresse à tous les métiers du web.
+:intello: c’est parti !</p>
+<p>Vous avez aimé les défis plutôt ludiques ? C’est une bonne façon de se préparer tout en s'amusant. Et si vous en voulez d’avantage, je vous invite à regarder cet article, à tester les différentes applications présentées, et à nous faire part de vos préférées :
+https://oclock.io/blog/1194/5-jeux-mobiles-pour-developper-sa-logique</p>
+:extra_terrestre: :extra_terrestre: :extra_terrestre:
+<p>Voilà pour la préparation mentale. Mais qu’en est-il de la préparation physique ?</p>
+<p>Il n'y a pas besoin d'être un crack pour être développeur. Le développement, c'est plus un marathon qu'un sprint. Mais bon, si on peut être à l'aise avec le clavier, c'est toujours un plus appréciable :intello: Alors on vous a repéré un jeu pour s'entraîner à taper au clavier.</p>
+Essayez donc ce jeu, et partagez vos scores ici !
+=> http://zty.pe/?url=https://developer.mozilla.org/en-US/docs/Learn/HTML
+:muscle: Bonne journée les Zéniths ! :câlin:
+
+</details>
+
+### S00E07 - Twitter & veille techno
+
+<details>
+  
+  <summary>#général</summary>
+
+<p>  Hello @chaîne ! :salut_main:
+Ce sont les derniers jours de votre préparation pour la formation. Tic tac, tic tac :réveil:… la pression monte ? Vous avez hâte ?
+Nous aussi ! </p>
+<p>Alors en attendant, on prend le temps de se préparer. Être développeur, ce n'est pas juste savoir coder. Apprendre la syntaxe ne suffit pas ! Je ne peux que vous recommander cette lecture si la distinction vous intrigue :
+https://oclock.io/blog/404/et-si-on-prenait-le-metier-de-developpeur-au-serieux
+Eh oui, être développeur, c'est aussi :
+savoir s'organiser,
+accepter d’apprendre en continu sans jamais tout maîtriser,
+savoir évoluer et se tenir au courant : ce qu'on appelle faire sa "veille technologique".</p>
+<p>Maintenant que vous êtes sur Slack, Discord, GitHub et Start.me, vous ne m'en voudrez pas si je vous en rajoute un : Twitter ! :ange: Le fameux réseau social en 140 280 caractères peut se révéler une chouette source pour faire sa veille. Le matin, avec son café, un peu de html entre deux tartines ?</p>
+=> https://twitter.com/signup
+<p>Une fois inscrit, balancez votre profil Twitter par ici, vous gagnerez vos premiers followers :smiley:
+Quelques comptes à suivre sur le dev, ou le web en général :</p>
+https://twitter.com/alsacreations  
+https://twitter.com/remixjobs  
+ https://twitter.com/umaar  
+https://twitter.com/frenchweb  
+https://twitter.com/css  
+https://twitter.com/github  
+https://twitter.com/mozilla  
+https://twitter.com/FrontEndDaily  
+https://twitter.com/CodeWisdom
+https://twitter.com/opquast
+https://twitter.com/commitStrip_fr ‏
+https://twitter.com/lesjoiesducode ‏
+https://twitter.com/grafikart_fr ‏
+https://twitter.com/MissionSoNum
+https://twitter.com/Souvir
+<p>Et quelques comptes O'clockiens :visage_légèrement_souriant:</p>
+https://twitter.com/Oclock_io
+https://twitter.com/webdif
+https://twitter.com/dariospagnolo
+https://twitter.com/tomHyperspace
+https://twitter.com/CelineBe_33
+https://twitter.com/blackrhumbar
+https://twitter.com/khammileon
+https://twitter.com/CyrielMartin
+https://twitter.com/dakkeyras
+https://twitter.com/PrescilliaDSD
+https://twitter.com/KatKoding
+<p>:intello: La veille technologique vous aidera à vous tenir au courant des technologies, mais aussi de la culture de votre futur domaine professionnel. :intello:</p>
+<p>PS : L’un de ces articles https://oclock.io/blog/cat/4/developpement-web peut aussi faire office de premier tweet.</p>
+<p>PPS : Je jure sur l'honneur ne pas avoir été menacé par Anthony pour écrire ce PS.</p>
+
+</details>
+
+
+### S00E06 - Reprise/Drive
+
+<details>
+  <summary>#général</summary>
+  
+  Hello @chaîne !
+<p>Bien reposés ? C'est parti pour votre deuxième semaine de préparation !
+On commence par un petit rappel des épisodes précédents :
+:filmer: Previously on Zénith :filmer:</p>
+S00E01 : découverte de votre slack de promo, de Discord et du slack Pro 
+défis : rejoindre tout ça, partager sa charte sur #pilule-rouge et obtenir les bons droits Discord via le bot Skynet
+
+S00E02 : maîtrise de Slack, découverte de start.me et de GitHub
+défis : manipuler slack, se configurer un start.me, créer son compte GitHub et remplir notre petit formulaire
+
+S00E03 : Algoblocs et Algobox
+défis : s'amuser et s'entraider !
+
+S00E04 : se préparer mentalement et techniquement pour la formation avec de la lecture et la checklist O'clock
+défis : bien lire les articles cités et remplir la checklist grâce aux accès reçus en MP une fois le formulaire rempli
+
+S00E05 : on commence à coder en HTML 
+défis : suivre le tuto donné sur GitHub
+
+<p>C’est déjà pas mal ! Mais on n’a pas encore tout à fait fini de faire le tour des outils qui vont vous être utiles durant la formation.
+En effet, aujourd’hui on va parler de Google Drive. L’outil vous est peut-être déjà familier, ou pas, en tout cas il nous servira pour vous donner accès à diverses ressources utiles à la promo. Je ne vous en dis pas plus pour le moment, on aura le temps d’en reparler :clin_d'œil:
+L’introduction de cet outil va me permettre de vous proposer votre premier exercice collaboratif ! Parce qu’une promo, ça se serre les coudes ; parce qu’on va vite avoir besoin de s’entraider pour avancer ensemble dans la découverte ; parce qu’il va falloir communiquer pour collaborer.... je vous propose de venir apporter votre pierre à l’édifice qu’est ce document :
+https://docs.google.com/spreadsheets/d/1FSilrW9iggYUEwwb3lbi6JunuTbPdiw4DuTDjBOwt5c/edit?usp=sharing
+C’est quoi l’idée ? Vous aurez peut-être remarqué que Slack supprime les plus anciens messages au fur et à mesure qu’on en poste de nouveaux. Aussi, si ce n’est pas déjà le cas, vos présentations des premiers jours ne vont pas tarder à disparaître :déçu:</p>
+<p>Je vous propose donc de centraliser toutes ces infos de la façon suivante :
+Créez un document texte dans votre Drive
+Collez-y votre présentation (ou rédigez-la si vous n’en avez pas encore eu l’occasion)
+Cliquez sur “Partager” puis “Obtenir le lien de partage” pour donner accès à ce fichier en lecture seule
+Ouvrez le document partagé ci-dessus. Normalement tout Zénith devrait pouvoir écrire dedans
+Rajoutez-y votre ligne, avec le lien d’accès à votre fichier de présentation
+(NB si tu n’as pas envie de divulguer certaines informations, tu peux mettre “NC” là où ça t’arrange)
+Hmm non, c’est trop facile comme ça. Je rajoute une contrainte ! :diable_souriant:
+Je veux que les lignes restent à tout moment par ordre alphabétique de prénom ! Pas de filtres automatiques, débrouillez-vous pour insérer des lignes au bon endroit et ne pas écraser les autres :tire_la_langue: Ah oui, voilà, c’est plus fun comme ça :sourire_et_yeux_rieurs:
+PS: si tu n’as pas les droits d’accès au document, assure-toi :
+que tu es bien connecté au drive via le compte que tu as renseigné dans le formulaire de la semaine dernière
+d’avoir bien renseigné ce formulaire (si ce n’est pas le cas, viens me voir en MP).</p>
+---
+<p>Et bien sûr, pendant toute cette saison on continue à vous aider à vous préparer techniquement :
+direction la checklist … pour vérifier que vous êtes prêts,
+et le channel #sav s’il y a le moindre souci.
+Bonne journée les Zéniths ! :océan: </p>
+  
+</details>
+
 
 ### S00E05 - Test Cockpit
 
