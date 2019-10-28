@@ -1,4 +1,45 @@
 # RECAP
+
+## Saison 01
+
+### S01E01 - Le début du commencement
+📓 Notions du jour
+
+- la formation chez O'clock
+- votre environnement de travail
+  - le Cockpit
+  - Github
+  - le Téléporteur 
+    VS Code (ou Codium), Chrome, et le terminal ❤️ 🤖
+- la syntaxe markdown
+
+⌨️ Challenge
+
+- https://github.com/O-clock-Zenith/S01E01-challenge-markdown
+
+🎬 Replay
+
+- https://drive.google.com/drive/folders/15cMSApcexz2oHpmEb5cu7ylHT8HOaEqG
+
+📚 Fiche Récap
+
+- https://github.com/O-clock-Alumni/fiches-recap/blob/master/vscode/packages.md
+- https://github.com/O-clock-Alumni/fiches-recap/tree/master/ldc
+- https://github.com/O-clock-Alumni/fiches-recap/blob/master/ldc/terminal.md
+
+📖 Lectures (pour demain)
+
+**HTML**
+
+- https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web/Les_bases_HTML
+
+**Markdown**
+
+- https://daringfireball.net/projects/markdown/
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- https://guides.github.com/features/mastering-markdown/
+
+
 ## Saison 00
 
 ### S00E10 - Last Day & Rest
