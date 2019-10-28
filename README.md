@@ -1,6 +1,59 @@
 # RECAP
 ## Saison 00
 
+### S00E10 - Last Day & Rest
+
+<details>
+  <summary> #général </summary>
+    
+<p>Petit récap de cette Saison 0, pour ceux qui n'ont pas tout suivi :</p>
+*S00E01 : découverte du slack de promo, discord des étudiants et slack pro
+*S00E02 : maîtriser slack, découverte start.me et création compte Github
+*S00E03 : découverte de l’algo (algoblocs)
+*S00E04 : lectures pour se préparer à la formation, lancement de la checklist,
+*S00E05 : on commence à coder! (tuto HTML), test dans le cockpit
+*S00E06 : utilisation de Drive
+*S00E07 : le métier de développeur et la veille techno (twitter)
+*S00E08 : la qualité web avec la certification Opquast et jeux de logique et de frappe
+*S00E09 : Dernier test cockpit
+<p>:épingle: Cliquez sur l'épingle tout en haut de la fenêtre Slack pour retrouver les messages ! :épingle:
+Et aujourd'hui, c'est l’épisode 10, le dernier de la saison 00… soit J-1 !
+Nous y sommes ! :cri:</p>
+<p>Lundi, vous avez rendez-vous à 9h sur le channel #cockpit du Slack Zénith où je vous attendrai pour ouvrir le Cockpit !
+Et d’ici là ?</p>
+<p>Repos ! :sommeil:</p>
+<p>Cette saison je vous ai rappelé ô combien la formation est intense. C'est imparable, il faudra parfois bosser le soir et prendre un peu de temps le week-end pour bûcher, s'exercer, découvrir de nouvelles choses ou approfondir les notions qu'on a vu ensemble.
+Mais je ne saurais conclure ce Chemin vers le Cockpit sans insister également sur l'importance de prendre soin de soi pendant la formation. 5 mois, c'est court vous verrez. Mais 5 mois, c'est également très long, surtout si on commence à veiller tard le soir parce qu'on veut absolument finir un challenge et qu'on accumule le manque de sommeil. Pour votre motivation, mais également pour l'efficacité de votre cerveau, c'est important de rester en forme. Qui dort dîne, paraît-il. En tout cas, qui dort apprend, ça c'est certain.</p>
+<p>Parce que le repos est important, nous avons disséminé une petite dizaine de jours de repos tout au long de la formation, toutes les 2 ou 3 semaines environ. Profitez de ces jours pour souffler, pour vous ressourcer. Une grasse mat' le matin, et une aprèm sur Discord pour papoter avec vos collègues sur ce challenge qui vous a causé souci par exemple. On est là pour apprendre un métier, mais aussi pour prendre du plaisir ce faisant !</p>
+:extra_terrestre::extra_terrestre:
+<p>Une dernière chose : n'oubliez pas que la Team O'clock est toujours dans les parages. Vous avez une question, un tracas, ou vous voulez un câlin : n'hésitez pas :ours:</p>
+<p>Alors bien sûr, nous savons que nous ne sommes pas parfaits. On peut toujours faire mieux ! Nous sommes donc à votre écoute pour améliorer l'école et l'expérience étudiante. Si vous avez des pistes d'améliorations, des idées que vous voulez partager, nous avons créé un repo GitHub pour centraliser dans les « issues » toutes vos suggestions : https://github.com/O-clock-Alumni/Forge/issues.</p>
+<p>Bien sûr, certaines suggestions prennent du temps (par exemple, développer une nouvelle fonctionnalité dans le cockpit !). Mais chaque idée est bonne à prendre, ça nous permettra de nous améliorer pour les promos suivantes !
+Sur ce, je vous souhaite une très bonne journée les Zéniths ! :salut_main::ensoleillé:</p>
+
+</details>
+
+### S00E09 - Last Test Cockpit
+
+<details>
+  <summary>#général</summary>
+  
+<p>J-4 @chaîne !</p>
+<p>Il ne reste plus très longtemps avant le lancement de Zénith ! :ensoleillé:
+Pour commencer sur de bonnes bases, et pouvoir vous focaliser sur le cours, dès la première minute, vous devez avoir une installation qui fonctionne :écran_ordinateur: :filmer: :écouteurs: :micro:</p>
+<p>Aujourd’hui, c’est donc le dernier jour des vérifications techniques :marteau_et_clé_anglaise: Pour cela, je vous ouvre les portes du cockpit toute l'après-midi (13h-18h environ) pour venir tester votre configuration et votre matériel directement dans votre future classe virtuelle :câlin: :coiffe_de_diplôme:
+Je vous invite donc à vous (re)mettre en conditions pour certains :
+lancer votre téléporteur,
+vérifier que vous êtes bien connectés au VPN
+(http://vpncheck.oclock.io doit afficher :+1:)
+lancer Chrome dans le téléporteur et vous connecter dans le cockpit :
+:flèche_avant: https://cockpit.oclock.io (pensez bien à l’ajouter à vos favoris, voir à la mettre en page d’accueil de votre navigateur. Cette adresse, elle va vous servir un bout de temps là  )</p>
+<p>Profitez-en également pour remplir votre profil dans le cockpit : changer votre photo (qui s'affiche quand la webcam fait défaut), renseigner une petite bio... Précisez-y bien votre pseudo GitHub (pas le lien, juste le username) : ça nous facilitera grandement les choses quand on vous fera des retours sur votre code :prière:</p>
+<p>Le but final, bien sur, c'est que vos VM soient configurée correctement. Que tout fonctionne comme sur des roulettes ! :roue_dentée:</p>
+  
+
+</details>
+
 ### S00E08 - Opquast & serious game
 
 <details>
