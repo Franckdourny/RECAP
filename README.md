@@ -2,6 +2,58 @@
 
 ## Saison 01
 
+### S01E02 - L'architecte et le décorateur
+📓 Notions du jour
+
+- HTML
+  - sémantique
+  - balises h1-6, p, ol, ul, img, a, link
+  - classes et id
+- CSS
+  - présentation
+  - font-\*, background-color, border etc.
+  - spécificité des sélecteurs
+  - `.` pour les classes, `#` pour les id
+
+⌨️ Challenge
+
+- https://github.com/O-clock-Zenith/S01E02-challenge-pancakes
+
+:nerd_face: Code du jour
+
+- https://github.com/O-clock-Zenith/S01E02-support-html-css
+
+🎬 Replay
+
+- https://drive.google.com/drive/folders/1mWD8KOtFSpMNbOKdFyOFIUhVvelDZ_To
+
+:books: Fiches récap
+
+**HTML**
+
+- https://github.com/O-clock-Alumni/fiches-recap/blob/master/html/syntaxe.md
+- https://github.com/O-clock-Alumni/fiches-recap/blob/master/html/textes.md
+
+**CSS**
+
+- https://github.com/O-clock-Alumni/fiches-recap/blob/master/css/css.md
+- https://github.com/O-clock-Alumni/fiches-recap/blob/master/css/syntaxe.md
+- https://github.com/O-clock-Alumni/fiches-recap/blob/master/css/text.md
+
+:book: Ressources
+
+**MDN**
+
+- https://developer.mozilla.org/fr/docs/Web/HTML
+- https://developer.mozilla.org/fr/docs/Web/CSS
+
+**Autres ressources**
+
+- Sélecteur de couleurs plutôt cool : https://htmlcolorcodes.com/fr/
+- https://htmlreference.io/
+- https://cssreference.io/
+
+
 ### S01E01 - Le début du commencement
 📓 Notions du jour
 
