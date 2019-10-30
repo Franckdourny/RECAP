@@ -2,6 +2,45 @@
 
 ## Saison 01
 
+### S01E03 - Box model
+📓 Notions du jour
+
+- comment structurer sa page à l'aide de balises sémantiques
+- la différence entre `block` et `inline`
+- plus de propriétés css
+- l'usage de `<img>`
+- et... le Box Model !
+
+⌨️ Challenge
+
+- https://github.com/O-clock-Zenith/S01E03-challenge-herocorp/
+
+:nerd_face: Code du jour
+
+- https://github.com/O-clock-Zenith/S01E03-exo-boxmodel/
+- https://github.com/O-clock-Zenith/S01E02-challenge-pancakes (corrections en `tags`)
+
+🎬 Replay
+
+- https://drive.google.com/drive/folders/1AnqJFWB0eztfjAuZQpqif_8ltLmvjqqR
+
+:books: **Fiche Récap**  
+
+- HTML Médias (dont images) : https://github.com/O-clock-Alumni/fiches-recap/blob/master/html/medias.md
+- HTML Tableaux : https://github.com/O-clock-Alumni/fiches-recap/blob/master/html/tableaux.md
+- Box model MDN : https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model
+- Padding MDN : https://developer.mozilla.org/en-US/docs/Web/CSS/padding
+- Margin MDN : https://developer.mozilla.org/en-US/docs/Web/CSS/margin
+- Git : https://github.com/O-clock-Alumni/fiches-recap/blob/master/ldc/git.md  
+
+:book: **Lectures**  
+
+- Eléments `block` : https://developer.mozilla.org/fr/docs/Web/HTML/%C3%89l%C3%A9ments_en_bloc  
+- Elements `inline`: https://developer.mozilla.org/fr/docs/Web/HTML/%C3%89l%C3%A9ments_en_ligne  
+- MDN Le modèle de boite : https://developer.mozilla.org/fr/Apprendre/CSS/Introduction_%C3%A0_CSS/Le_mod%C3%A8le_de_bo%C3%AEte  
+- CSS Reference.io, Le modèle de boite : http://cssreference.io/box-model/  
+- MDN Sémantique https://developer.mozilla.org/fr/docs/Glossaire/S%C3%A9mantique  
+
 ### S01E02 - L'architecte et le décorateur
 📓 Notions du jour
 
