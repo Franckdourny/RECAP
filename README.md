@@ -2,6 +2,42 @@
 
 ## Saison 01
 
+### S01E04 - Layout
+📓 Notions du jour
+
+- de nouvelles balises : `aside` et `article` notamment
+- mettre des éléments les uns à côtés des autres
+  - `float: left;`
+  - `display: inline-block;`
+  - `display: flex;` :heart_eyes:
+
+⌨️ Challenge
+
+- http://www.flexboxdefense.com/  
+- http://flexboxfroggy.com/#fr  
+- et surtout :heart_eyes: https://github.com/O-clock-Zenith/S01E04-challenge-flexbox
+
+:nerd_face: Code du jour
+
+- https://github.com/O-clock-Zenith/S01E03-challenge-herocorp
+
+🎬 Replay
+
+- https://drive.google.com/drive/folders/1Zsn_rdfOGldRwO0jIHHwKHU-hHU5VNsA
+
+:books: **Fiche Récap**  
+
+- https://github.com/O-clock-Alumni/fiches-recap/blob/master/css/stylelint.md  
+- https://github.com/O-clock-Alumni/fiches-recap/blob/master/css/layout.md  
+- https://github.com/O-clock-Alumni/fiches-recap/blob/master/css/levelup.md#pseudo-classes-mdn  
+- https://github.com/O-clock-Alumni/fiches-recap/blob/master/css/flexbox.md  
+
+:book: **Lectures**  
+
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/  
+- https://developer.mozilla.org/fr/docs/Web/CSS/Disposition_flexbox_CSS/Utilisation_des_flexbox_en_CSS  
+- http://fr.learnlayout.com/toc.html  
+
 ### S01E03 - Box model
 📓 Notions du jour
 
