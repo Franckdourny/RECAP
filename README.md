@@ -2,6 +2,42 @@
 
 ## Saison 01
 
+### S01E05 - Position
+📓 Notions du jour
+
+- le positionnement "manuel" hors du flux avec la propriété `position`
+  - `static` : reste dans le flux, tu verras, on y est bien et t'as rien à faire pour être placé
+  - `relative` : sors du flux, mais t'inquiète, un clone de l'ombre te garde ta place et toi tu peux te balader librement autour de la place qui t'étais réservée
+  - `absolute` : sors complètement du flux, on va te piquer ta place mais toi, tu pourras aller ou tu veux, sans aucune limite
+  - `fixed` : je parie que tu as toujours rêvé d'être un post-it collé sur une loupe :smirk:
+- comment faire un joli macaron à base de `border-radius` et de `line-height`
+- les transitions au survol d'un élément (ou d'un parent) avec `transition` et `:hover`
+- les CSS generators pour les propriétés qu'on arrive jamais à retenir :nerd_face:
+
+⌨️ Challenge
+
+Ré-vi-sions :relieved:
+
+:nerd_face: Code du jour
+
+- https://github.com/O-clock-Zenith/S01E04-challenge-flexbox
+
+🎬 Replay
+
+- https://drive.google.com/drive/folders/1dSf3wrHvaAdl8Y_KI7wFQtEtD3W2UESM  
+
+:books: **Fiche Récap**  
+
+- https://github.com/O-clock-Alumni/fiches-recap/blob/master/css/layout.md  
+- https://github.com/O-clock-Alumni/fiches-recap/blob/master/css/levelup.md#pseudo-classes-mdn  
+- https://github.com/O-clock-Alumni/fiches-recap/blob/master/css/levelup.md#transitions  
+- https://github.com/O-clock-Alumni/fiches-recap/blob/master/ldc/git.md  
+
+:book: **Lectures**  
+
+- http://fr.learnlayout.com/toc.html (même si leur explication de `position` vaut pas la nôtre :sunglasses:)
+- Les journées précédentes de ce récap :books:
+
 ### S01E04 - Layout
 📓 Notions du jour
 
