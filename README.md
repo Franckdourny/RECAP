@@ -2,6 +2,38 @@
 
 ## Saison 01
 
+### S01E07 - Forms
+📓 Notions du jour
+
+- [Les formulaires HTML](https://github.com/O-clock-Alumni/fiches-recap/blob/master/html/formulaires.md)
+- Toujours un peu plus de CSS
+
+:pencil: La correction de l'atelier
+
+- https://github.com/O-clock-Zenith/s01e06-atelier-onews-jpruliere
+
+🎬 Replay
+
+- https://drive.google.com/drive/folders/1rl3K7xA8fGwOi2xeuiOjebvTQ-gKVYRF
+
+:keyboard: Challenge
+
+- Le sujet : https://github.com/O-clock-Zenith/s01e07-challenge-ofig-panier
+- On code dans le dossier de S01E04 : O'Fig !
+
+:books: **Fiche Récap**  
+
+- https://github.com/O-clock-Alumni/fiches-recap/blob/master/html/formulaires.md
+
+:book: **Lectures**  
+
+- https://developer.mozilla.org/fr/docs/Web/Guide/HTML/Formulaires/Mon_premier_formulaire_HTML
+- https://developer.mozilla.org/fr/docs/Web/Guide/HTML/Formulaires
+
+### S01E06 - Atelier
+
+Le classroom : https://classroom.github.com/a/vL6nqOHn
+
 ### S01E05 - Position
 📓 Notions du jour
 
