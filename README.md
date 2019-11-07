@@ -2,6 +2,30 @@
 
 ## Saison 01
 
+### S01E08 - Responsive Web Design
+📓 Notions du jour
+
+- Responsive Web Design
+- Media Queries
+- Avantages du design "mobile first"
+
+🎬 Replay
+
+- https://drive.google.com/drive/folders/1O_RQSZlRz1ZIrl2P4_3FGHb5Gay5kntB
+
+:keyboard: ~Pas de Challenge!~
+
+:nerd_face: Répos du jour
+
+- Mise en place du RWD: https://github.com/O-clock-Zenith/s01e06-atelier-onews-jpruliere
+- Correction du challenge de la veille : https://github.com/O-clock-Zenith/s01e07-challenge-ofig-panier
+
+:books: Fiche Récap
+
+- [Responsive Web Design](https://github.com/O-clock-Alumni/fiches-recap/blob/master/css/rwd.md)
+- Toutes les autres fiches récap de la saison !!
+
+
 ### S01E07 - Forms
 📓 Notions du jour
 
