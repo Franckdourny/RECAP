@@ -13,7 +13,9 @@
 
 - https://drive.google.com/drive/folders/1O_RQSZlRz1ZIrl2P4_3FGHb5Gay5kntB
 
-:keyboard: ~Pas de Challenge!~
+:keyboard: ~Pas de Challenge!~ mais un atelier solo :tada:
+
+- https://classroom.github.com/a/vmigdof7
 
 :nerd_face: Répos du jour
 
