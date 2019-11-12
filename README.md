@@ -1,5 +1,36 @@
 # RECAP
 
+## Saison 02
+
+### S01E01 - Programmer en JavaScript
+📓 Notions du jour
+
+- Javascript, c'est quoi?
+- variables
+- conditions
+
+🎬 Replay
+
+- https://drive.google.com/drive/folders/1PhVZ_69j-MOw88sm5upCOkjZe9bzO9cv
+
+:keyboard: Challenge
+
+- https://classroom.github.com/a/TaedODfo
+
+:nerd_face: Répos du jour
+
+- découverte de JS : https://github.com/O-clock-Zenith/s02e01-support-hello-js
+
+:books: Fiche Récap
+
+- [Syntaxe JS](https://github.com/O-clock-Alumni/fiches-recap/blob/master/js/syntaxe.md)
+- [Conditions](https://github.com/O-clock-Alumni/fiches-recap/blob/master/js/conditions.md)
+
+:books: Lecture supplémentaire
+
+- [Quelques fonctions utiles en JS](https://github.com/O-clock-Alumni/fiches-recap/blob/master/js/fonctions-js.md)
+
+
 ## Saison 01
 
 ### S01E08 - Responsive Web Design
