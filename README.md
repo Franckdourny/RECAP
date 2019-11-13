@@ -2,7 +2,34 @@
 
 ## Saison 02
 
-### S01E01 - Programmer en JavaScript
+### S02E02 - Javascript ça fonctionne
+📓 Notions du jour
+- fonctions, paramètres, arguments
+- Tableaux
+- Boucles
+
+🎬 Replay
+
+- https://drive.google.com/drive/folders/1pqYEki6EZlgWceXrYsYiHwK51wJp3d6W
+
+:keyboard: Challenge
+
+- https://classroom.github.com/a/qdjahXDF
+
+:nerd_face: Répos du jour
+
+- correction du challenge d'hier, et exploration des fonctions : https://github.com/O-clock-Zenith/s02e01-challenge-quiz-jpruliere
+
+:books: Fiche Récap
+
+- [Tableaux - syntaxe JS](https://github.com/O-clock-Alumni/fiches-recap/blob/master/js/syntaxe.md#array)
+- [Boucles](https://github.com/O-clock-Alumni/fiches-recap/blob/master/js/boucles.md)
+- [Fonctions](https://github.com/O-clock-Alumni/fiches-recap/blob/master/js/fonctions.md)
+- [Fonctions natives - c'est à dire présentes "de base" dans JS](https://github.com/O-clock-Alumni/fiches-recap/blob/master/js/fonctions-js.md)
+
+
+
+### S02E01 - Programmer en JavaScript
 📓 Notions du jour
 
 - Javascript, c'est quoi?
