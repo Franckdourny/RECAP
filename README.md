@@ -4,8 +4,8 @@
 
 ### S02E03 - Fonctions et Objets
 📓 Notions du jour
-- fonctions avec return
-- paramètres avec valeur par défaut
+- Fonctions avec return
+- Paramètres avec valeur par défaut
 - Objets
 
 🎬 Replay
