@@ -2,6 +2,32 @@
 
 ## Saison 02
 
+### S02E03 - Fonctions et Objets
+📓 Notions du jour
+- fonctions avec return
+- paramètres avec valeur par défaut
+- Objets
+
+🎬 Replay
+
+- https://drive.google.com/drive/folders/1wtoVFPoy9g5cRKpkNQnjRr3GijABmLTv
+
+:keyboard: Challenge
+
+- Le sujet est là : https://github.com/O-clock-Zenith/s02e03-challenge-fourchette-again
+- On code dans le même repo qu'hier !
+
+:nerd_face: Répos du jour
+
+- Correction du challenge fourchette : https://github.com/O-clock-Zenith/s02e02-challenge-fourchette-jpruliere
+- Quiz (avec les scores :heart_eyes:) : https://github.com/O-clock-Zenith/s02e01-challenge-quiz-jpruliere
+
+:books: Fiche Récap
+
+- [Fonctions](https://github.com/O-clock-Alumni/fiches-recap/blob/master/js/fonctions.md)
+- [Objets](https://github.com/O-clock-Alumni/fiches-recap/blob/master/js/syntaxe.md#objets)
+- [Objets sur la MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Utiliser_les_objets)
+
 ### S02E02 - Javascript ça fonctionne
 📓 Notions du jour
 - fonctions, paramètres, arguments
