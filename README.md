@@ -4,6 +4,36 @@
 
 ### S02E03 - Fonctions et Objets
 📓 Notions du jour
+- DOM
+  - sélection d'élément dans le document
+  - création d'élément
+  - ajout d'élément dans le document
+  - propriété `className` pour modifier les classes d'un élément
+- Structure app
+  - Tout le code dans un seul objet
+  - Une méthode `init()` pour tout lancer d'une seule instruction
+
+🎬 Replay
+
+- https://drive.google.com/drive/folders/1ISgwvjccVMWT4ToscTTMAUSeu2NlYZ5l
+
+:keyboard: Challenge
+
+- https://classroom.github.com/a/2RqkBUjN
+
+:nerd_face: Répos du jour
+
+- La fourchette, version finale : https://github.com/O-clock-Zenith/s02e02-challenge-fourchette-jpruliere
+
+:books: Fiche Récap
+
+- [DOM](https://github.com/O-clock-Alumni/fiches-recap/blob/master/js/dom.md)
+- [Module JS](https://github.com/O-clock-Alumni/fiches-recap/blob/master/js/modules.md)
+- [Fonctions](https://github.com/O-clock-Alumni/fiches-recap/blob/master/js/fonctions.md)
+- [Objets](https://github.com/O-clock-Alumni/fiches-recap/blob/master/js/syntaxe.md#objets)
+
+### S02E03 - Fonctions et Objets
+📓 Notions du jour
 - Fonctions avec return
 - Paramètres avec valeur par défaut
 - Objets
