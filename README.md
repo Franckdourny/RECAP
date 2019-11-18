@@ -1,6 +1,8 @@
 # RECAP
 
 ## Saison 02
+
+### S02E05 - Events
 📓 Notions du jour
 - Valeur et référence
   - les valeurs de type scalaire (Boolean, Number, String) sont passées _par valeur_ à une fonction et leur _valeur_ est affectée à une variable
@@ -29,7 +31,7 @@
 - [Events](https://github.com/O-clock-Alumni/fiches-recap/blob/master/js/evenements.md)
 - Et toutes les précédentes :wink:
 
-### S02E03 - Fonctions et Objets
+### S02E04 - DOM
 📓 Notions du jour
 - DOM
   - sélection d'élément dans le document
