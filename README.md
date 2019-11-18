@@ -1,6 +1,33 @@
 # RECAP
 
 ## Saison 02
+📓 Notions du jour
+- Valeur et référence
+  - les valeurs de type scalaire (Boolean, Number, String) sont passées _par valeur_ à une fonction et leur _valeur_ est affectée à une variable
+  - les valeurs de type non-scalaire (Array, Object) sont passées _par référence_ à une fonction et seule leur _référence_ est affectée à une variable
+- Écouteurs d'événement
+  - le paramètre _event_ des fonctions _callbacks_ peut être déclaré pour pouvoir accéder aux informations de l'événement et à des méthodes utiles
+- Structure module, la suite
+  - _e que s'apelerio_ `app`
+  - la méthode `init` ne lance pas la partie, elle ne fait que mettre en place l'interface (ex: éléments générés dynamiquement, écouteurs d'événements) et configurer l'application (ex: initialisation propriétés utiles à l'application)
+  - les _callbacks_ d'événement se nomment tous `handle + petit nom de l'élément écouté + événement écouté` (ex: `handleFormSubmit`, `handleSliderChange`)
+
+🎬 Replay
+
+- https://drive.google.com/drive/folders/1aW3NEjsTCOuQOlGnNu0v51X_RWmNeavv
+
+:keyboard: Challenge
+
+- Dormir en ayant entrevu l'énoncé de l'atelier :see_no_evil:
+
+:nerd_face: Répos du jour
+
+- Le Dice Roller, 7€99 sur Steam : https://github.com/O-clock-Zenith/s02e04-challenge-dice-roller-jpruliere
+
+:books: Fiche Récap
+
+- [Events](https://github.com/O-clock-Alumni/fiches-recap/blob/master/js/evenements.md)
+- Et toutes les précédentes :wink:
 
 ### S02E03 - Fonctions et Objets
 📓 Notions du jour
