@@ -1,6 +1,42 @@
 # RECAP
 
-## Saison 02
+## Saison 02 
+
+### S02E07 - Toujours plus loin
+📓 Notions du jour
+- classList plutôt que className :heart_eyes:
+- `for` dans un `for` :muscle:
+- propagation d'événement :champagne:
+- un `init` propre est un `init` qui ne fait qu'appeler d'autres méthodes :clamp: 
+- BEM :1234:
+- la méthode `forEach` des tableaux :gear:
+
+🎬 Replay
+
+- https://drive.google.com/drive/folders/1x_MZv-c95QHF0cxsRw-hX-AlM_JuCOSS
+
+:keyboard: Challenge
+
+- :warning: Challenge de la muerte https://classroom.github.com/a/QS7_HeK1 :boom:
+
+:nerd_face: Répos du jour
+
+- L'ardoise customisable trop stylée : https://github.com/O-clock-Zenith/s02e06-atelier-invader-jpruliere
+
+:books: Fiche Récap
+
+- Rien de neuf aujourd'hui, mais vous avez déjà assez de lecture comme ça :nerd_face:
+
+### S02E06 - Atelier Invaders
+:keyboard: Au programme
+- du DOM
+- du DOM
+- des events
+- du DOM
+- pleeein de `div` mais c'est permis
+- quelques events
+- beaucoup de courage :muscle:
+https://classroom.github.com/a/D7u5ruyk
 
 ### S02E05 - Events
 📓 Notions du jour
