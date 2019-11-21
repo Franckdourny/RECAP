@@ -2,6 +2,27 @@
 
 ## Saison 02 
 
+### S02E08 - ES6
+📓 Notions du jour
+- ES6 : let/const, fonctions fléchées, opérateur de décomposition
+- et puis c'est tout ! Parce que des fois, ça fait du bien de ne rien apprendre de nouveau :relieved:
+
+🎬 Replay
+
+- https://drive.google.com/drive/folders/1mLxE8PfODQh5hfTQKrOF__eLAwbat45A  
+
+:keyboard: Atelier solo
+
+- https://classroom.github.com/a/4w3QGHjm  
+
+:nerd_face: Répos du jour
+
+- Zelda Breath of the Zenith : https://github.com/O-clock-Zenith/s02e07-challenge-rpg-jpruliere
+
+:books: Fiche Récap
+
+- Toutes celles déjà abordées cette saison :books: https://github.com/O-clock-Alumni/fiches-recap/tree/master/js
+
 ### S02E07 - Toujours plus loin
 📓 Notions du jour
 - classList plutôt que className :heart_eyes:
