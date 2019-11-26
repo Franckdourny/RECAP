@@ -1,5 +1,29 @@
 # RECAP
 
+## Saison 03
+
+### S03E01 - Node, rien de neuf
+📓 Notions du jour
+- les modules, ces objets bien pratiques qu'on récupère grâce à `require`
+- le reste, c'est du déjà vu de la S2 :smirk:
+
+🎬 Replay
+
+- https://drive.google.com/drive/folders/1euCS46AcmaB4xUA2U5v8G4yOJCQGxA8M  
+
+:keyboard: Challenge _nostalgie_
+
+- https://classroom.github.com/a/Wn949aTR  
+
+:nerd_face: Répos du jour
+
+- https://github.com/O-clock-Zenith/s03e01-intro-node  
+- https://github.com/O-clock-Zenith/s03e01-support-readline
+
+:books: Fiches récap
+
+- Récap de quoi ? :upside_down_face:
+
 ## Saison 02 
 
 ### S02E08 - ES6
