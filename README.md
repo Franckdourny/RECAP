@@ -2,6 +2,22 @@
 
 ## Saison 03
 
+### S03E02 - Hache, tête, épée
+📓 Notions du jour
+- Serveur HTTP en Javascript
+- Une requete => Une réponse
+- Route = URL
+- Routage simple
+
+🎬 Replay
+- https://drive.google.com/drive/folders/1HWndSR_Vh5Jxq-i43ZUMRpn0GiEZAuLD
+
+:keyboard: Challenge
+- https://classroom.github.com/a/n6qUOkvF
+
+:nerd_face: Répos du jour
+- https://github.com/O-clock-Zenith/s03e02-support-http
+
 ### S03E01 - Node, rien de neuf
 📓 Notions du jour
 - les modules, ces objets bien pratiques qu'on récupère grâce à `require`
