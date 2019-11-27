@@ -16,7 +16,8 @@
 - https://classroom.github.com/a/n6qUOkvF
 
 :nerd_face: Répos du jour
-- https://github.com/O-clock-Zenith/s03e02-support-http
+- Correction ettehcruof : https://github.com/O-clock-Zenith/s03e01-challenge-ettehcruof-jpruliere  
+- Support HTTP et routes : https://github.com/O-clock-Zenith/s03e02-support-http
 
 ### S03E01 - Node, rien de neuf
 📓 Notions du jour
