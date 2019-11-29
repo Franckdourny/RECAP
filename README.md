@@ -2,6 +2,37 @@
 
 ## Saison 03
 
+### S03E04 - Express
+📓 Notions du jour
+- Express : le module le plus téléchargé sur npm
+- Routes et routes dynamiques (=paramétrées)
+- Router (on continue de ranger !)
+
+🎬 Replay
+- https://drive.google.com/drive/folders/1r12y7wX6f6YnUQgyYfJUojjP4YahIkgh
+
+:keyboard: Challenge
+- https://classroom.github.com/a/qGCtSNvo
+
+:nerd_face: Répos du jour
+- Correction du challenge Bookshelf : https://github.com/O-clock-Zenith/s03e03-challenge-bookshelf-jpruliere
+- Fourchttp: https://github.com/O-clock-Zenith/s03e02-challenge-fourchttp-jpruliere
+
+### S03E03 - Journée rangement
+📓 Notions du jour
+- Modules
+- CommonJS : `require` et `module.exports`
+- NPM
+
+🎬 Replay
+- https://drive.google.com/drive/folders/1w5f3tHoUng6l8QN1Msv0VqnhW1kTvvXO
+
+:keyboard: Challenge
+- https://classroom.github.com/a/aqB4KN_X
+
+:nerd_face: Répos du jour
+- Fourchttp: https://github.com/O-clock-Zenith/s03e02-challenge-fourchttp-jpruliere
+
 ### S03E02 - Hache, tête, épée
 📓 Notions du jour
 - Serveur HTTP en Javascript
