@@ -2,6 +2,31 @@
 
 ## Saison 03
 
+### S03E05 - Vues
+📓 Notions du jour
+- EJS : moteur de template
+- syntaxe EJS `<% %>` (notamment `include`, la solution anti-DRY)
+- `express.static` pour les contenus statiques (css, js front, images)
+
+🎬 Replay
+- https://drive.google.com/drive/folders/17gnoOwKxFzLf2gG0MmLjQfEqfexJLiow
+
+:keyboard: Challenge
+- Nope ! Ça suffit, place aux révisions :wink:
+
+:nerd_face: Répos du jour
+- Correction du challenge Worldtime : https://github.com/O-clock-Zenith/s03e04-challenge-worldtime-jpruliere
+- Branche Vues : https://github.com/O-clock-Zenith/s03e04-challenge-worldtime-jpruliere/tree/ejs
+
+:books: Fiche récap
+- [Branches](https://github.com/O-clock-Alumni/fiches-recap/blob/master/ldc/git.md#branches)
+
+:link: Liens utiles (oui, vous les connaissez déjà, mais maintenant il va falloir les consulter :smirk:)
+- http://expressjs.com/
+- http://ejs.co/
+- https://momentjs.com/
+- https://nodejs.org/api/
+
 ### S03E04 - Express
 📓 Notions du jour
 - Express : le module le plus téléchargé sur npm
