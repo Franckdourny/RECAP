@@ -2,6 +2,27 @@
 
 ## Saison 03
 
+### S03E07 - Middlewares
+📓 Notions du jour
+- Middleware = ouvrier à la chaîne
+- Express est un moteur de middlewares (c'est même juste un moteur de middlewares, _everything is middleware_)
+  - app.get(_url_, _mw_) exécutera _mw_ si _url_ correspond à l'url de la requête
+  - app.use(_mw_) exécute _mw_ sans condition aucune
+  - l'ordre de chaînage des middlewares est important :warning:
+
+🎬 Replay
+- https://drive.google.com/drive/folders/1WGEVwf5MQILUrbzoqf86ClLXyVpucT7u
+
+:keyboard: Challenge
+- https://classroom.github.com/a/jc8JtsUU
+
+:nerd_face: Répos du jour
+- Correction de l'atelier : https://github.com/O-clock-Zenith/s03-e06-atelier-gamecenter-jpruliere
+- Tablify (aka _Los middlewares de la muerte_) : https://github.com/O-clock-Zenith/s03e07-exo-tablify-jpruliere
+
+:link: Lien utile (ou pas, à vous de voir)
+- https://codepen.io/jcoulterdesign/details/NOMeEb/
+
 ### S03E05 - Vues
 📓 Notions du jour
 - EJS : moteur de template
