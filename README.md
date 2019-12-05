@@ -2,6 +2,28 @@
 
 ## Saison 03
 
+### S03E08 - GET et POST
+📓 Notions du jour
+- 2 méthodes (ou _verbes_) HTTP pour envoyer des données à un serveur
+- GET passe par l'url : `?` pour démarrer, `clé=valeur` pour chaque param, `&` pour séparer
+- POST passe par le corps (=l'enveloppe) de la requête, qui restait vide jusqu'à présent
+- L'un comme l'autre seront totalement ignorés si vous n'en faîtes rien côté serveur : il ne suffit pas de les envoyer
+  - ex: https://www.huffingtonpost.fr/?coucou=zenith (la page d'accueil n'attend pas de param GET `coucou` à priori, le serveur n'en fait donc rien #osef)
+- `express.urlencoded({extended: true})` génère un middleware qui vous mâche le taf de la récup des données POST, qui atterrissent dans `request.body` :heart_eyes:
+
+🎬 Replay
+- https://drive.google.com/drive/folders/1olew4g3kjXQNwzMunbRWJcruOHBSJx_5
+
+:keyboard: Atelier solo
+- https://classroom.github.com/a/DmZOtA2_
+
+:nerd_face: Répos du jour
+- Correction du challenge middlewares + ajout de %@!*#&$, le jeu qu'on ne nomme plus, au GameHub : https://github.com/O-clock-Zenith/s03-e06-atelier-gamecenter-jpruliere
+- Une calculette, gratuite sur Steam (pour appâter) : https://github.com/O-clock-Zenith/s03e08-exo-calculette
+
+:link: Lien utile (ou pas, à vous de voir)
+- https://www.youtube.com/watch?v=BcpI1hYmGj4 merci Elsa ! (remarquez le paramètre GET dans l'url :smirk:)
+
 ### S03E07 - Middlewares
 📓 Notions du jour
 - Middleware = ouvrier à la chaîne
