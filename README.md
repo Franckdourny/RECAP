@@ -5,10 +5,10 @@
 ### S04E01 - ON S'ORGANISE
 📓 Notions du jour
 - Gestion de projets (GDP) on à decouvert de nouveaux outils : Kanban, Scrum, Wireframe
-- Niveau organisation de code on a fait un gros récap sur les différentes organisations pendant la saison 3, et ajouter les controllers ! Router.js ne s'occupe plus que du ... routage ! La logique est déporté dans les controlleurs.
-- On a bien revu les parmaètres de requêtes également, qui nous permettent de créer des routes dynamiques.
-- Le module path permet de gérer les chemins d'accès a non différents fichier au poil :perfect:
-- Ah oui et bien-sûr le module npm dotenv qui permet de pouvoir configurer notre application en fonction du serveur qui l'héberge
+- Niveau organisation de code on a fait un gros récap sur les différentes organisations pendant la saison 3, et ajouté les controllers ! Router.js ne s'occupe plus que du ... routage ! La logique est déportée dans les controlleurs.
+- On a bien revu les paramètres de requêtes également, qui nous permettent de créer des routes dynamiques.
+- Le module path permet de gérer les chemins d'accès, de non différents fichiers, au poil :perfect:
+- Ah oui et bien-sûr le module npm dotenv qui permet de configurer notre application en fonction du serveur qui l'héberge
 
 🎬 Replay
 - https://drive.google.com/drive/folders/1ZHSOmDp9bWGxxfXi6I1Fa9_2oOC4-mLK
