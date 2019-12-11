@@ -2,6 +2,38 @@
 
 ## Saison 04
 
+### S04E02 - ORGANISER LES DONNÉES
+📓 Notions du jour
+- Perfectionnement sur la nouevlle organisation avec des controllers
+- Organisation d'une base de données avec a méthode Merise : MCD et MLD
+- Introduction aux premières requêtes SQL
+
+🎬 Replay
+- https://drive.google.com/drive/folders/1dSs66LZPM3Ka7GQPMW-PzFoDdxukwkA8
+
+:keyboard: Challenge  
+Votre mission est donc, si vous l'acceptez, d'écrire les 3 requêtes SQL nécessaires à notre projet actuellement.
+
+Nos tables porterons le nom des fichiers JSON et les champs porterons le nom des clé du JSON.
+Nous avons besoin de : 
+
+- Sélectionner toutes les promos
+- Sélectionner les étudiants d'un promo grâce à un id de promo
+- Sélectionner un étudiant en particulier
+
+Pour stocker ces requêtes : créez juste un fichier Markdown à la racine du projet, et mettez-les dedans.
+
+:nerd_face: Répos du jour
+- https://github.com/O-clock-Zenith/Trombin-o-clock-zenith
+
+:link: Lien utile (ou pas, à vous de voir)
+- https://github.com/O-clock-Alumni/fiches-recap/tree/master/gestion-projet
+- https://github.com/O-clock-Alumni/fiches-recap/blob/master/bdd/intro.md
+- https://github.com/O-clock-Alumni/fiches-recap/blob/master/bdd/sql.md
+- https://www.tutorialspoint.com/sqlite/sqlite_installation.htm
+- https://sqlite.org/download.html
+- https://sql.sh
+
 ### S04E01 - ON S'ORGANISE
 📓 Notions du jour
 - Gestion de projets (GDP) on à decouvert de nouveaux outils : Kanban, Scrum, Wireframe
